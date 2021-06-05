@@ -4,7 +4,7 @@
 
 
 
-- 🔭 Je travaille actuellement sur mon bot Discord, [PineBot](https://pinebot.gq/pinebot)
+- 🔭 Je travaille actuellement sur mon bot Discord, [PineBot](https://pintey.gq/pinebot/)
 - 📫 Comment me contacter : [Discord](https://discord.gg/fQsrZZt4AZ)
 - 💻 J'utiliste [VisualStudioCode](https://code.visualstudio.com/)
 - 🥖 Et je vie en france
