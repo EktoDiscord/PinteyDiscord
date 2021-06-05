@@ -1,6 +1,6 @@
 ### Salut salut
 
-[![discord](https://discord.com/api/guilds/559414466664464384/widget.png)](https://discord.gg/yAYZumWDA4)
+[![discord](https://discord.com/api/guilds/844578890185572362/widget.png)](https://discord.gg/fQsrZZt4AZ)
 
 
 
